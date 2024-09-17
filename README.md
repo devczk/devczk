@@ -7,8 +7,3 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,java,flutter,dart,ae,bootstrap,figma,postgresql,firebase,kotlin,git,github,jquery,linux,mysql,netlify,php,postgres,py,vscode&perline=11" />
 </a>
 </p> 
-
-# 📊 Estatísticas:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devczk&theme=transparent&card_width=800)](https://git.io/streak-stats)
-
